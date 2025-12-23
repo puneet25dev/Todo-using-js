@@ -22,7 +22,7 @@ It allows users to add tasks, mark them as completed, and delete them with smoot
 - JavaScript (DOM Manipulation)
 - Font Awesome (icons)
 
-🚀 **Live Demo** → [Click Here](todayplay.netlify.app)
+🚀 **Live Demo** → [Click Here](https://puneet25dev.github.io/Todo-using-js/)
 
 
 
